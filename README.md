@@ -21,7 +21,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [Public Node Podcast](https://podcast.publicnode.org/)
 * [Stellar Community Fund](https://communityfund.stellar.org/)-An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community.
 * [Stellar Quest](https://quest.stellar.org/)-Learn Stellar Collect NFTs and Earn XLM!
-# If you are new to STELLAR ECOSYSTEM, start from here!!
+# If you are new to the STELLAR ECOSYSTEM, start from here!!
 * [Intro](https://www.stellar.org/learn/intro-to-stellar)
 * [The Power of Stellar](https://www.stellar.org/learn/the-power-of-stellar)
 * [Lumenauts-What is Stellar](https://www.lumenauts.com/lessons/what-is-stellar)
