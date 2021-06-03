@@ -19,6 +19,13 @@
 * [Stellar Global 팟캐스트](https://anchor.fm/samconner)
 * [Stellar Global Medium](https://medium.com/stellar-global)
 * [Public Node 팟캐스트](https://podcast.publicnode.org/)
+* [Stellar Korea Twitter](https://twitter.com/Stellar_Korea)
+* [Stellar Turkey Twitter](https://twitter.com/StellarXLMTR)
+* [Stellar Ireland Twitter](https://twitter.com/Stellar_IE)
+* [Stellar Austria Twitter](https://twitter.com/Stellar_AT)
+* [Stellar Japan Twitter](https://twitter.com/stellarJPN)
+* [Stellar Italy Twitter](https://twitter.com/ItaliaStellar)
+* [Stellar France Twitter](https://twitter.com/Stellar_FR)
 * [Stellar Community Fund(SCF/Stellar 커뮤니티 펀드)](https://communityfund.stellar.org/)-개발자들이 능력과 창의력을 발휘하여 스텔라 생태계에 도입할 새로운 응용 프로그램 및 사용 사례를 커뮤니티에 소개하고 투표되는 흥미로운 방식입니다.
 * [Stellar 퀘스트](https://quest.stellar.org/)-Stellar에 대해 배우면서 상금으로 NFT(대체불가능토큰)과 XLM을 획득하세요!
 # Stellar 생태계가 처음이시라면 여기서부터 시작하십시오!!
