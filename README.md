@@ -24,6 +24,8 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [Stellar Ireland Twitter](https://twitter.com/Stellar_IE)
 * [Stellar Austria Twitter](https://twitter.com/Stellar_AT)
 * [Stellar Japan Twitter](https://twitter.com/stellarJPN)
+* [Stellar Italy Twitter](https://twitter.com/ItaliaStellar)
+* [Stellar France Twitter](https://twitter.com/Stellar_FR)
 * [Stellar Community Fund](https://communityfund.stellar.org/)-An exciting way for developers to flex their creative muscles and introduce new applications and use cases to the Stellar ecosystem, voted on by the community.
 * [Stellar Quest](https://quest.stellar.org/)-Learn Stellar Collect NFTs and Earn XLM!
 # If you are new to the STELLAR ECOSYSTEM, start from here!!
