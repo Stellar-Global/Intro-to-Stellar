@@ -14,7 +14,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [SDF Blog](https://www.stellar.org/blog)
 * [Stellar Developers Blog](https://www.stellar.org/developers-blog)
 # Community
-* [Stellar Global Discord](https://stellarglobal.chat/)-Including Stellar Turkey, Korea, Africa, Asia, Austria, Canada, Caribbean, Europe, France, Ireland, Korea, Soylatino.
+* [Stellar Global Discord](https://stellarglobal.chat/)-Including Stellar Turkey, Korea, Africa, Asia, Austria, Canada, Caribbean, Europe, France, Ireland, Soylatino.
 * [Stellar Global Twitter](https://twitter.com/StellarGlobal_)
 * [Stellar Global Podcast](https://anchor.fm/samconner)
 * [Stellar Global Medium](https://medium.com/stellar-global)
