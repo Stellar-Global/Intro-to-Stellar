@@ -113,4 +113,5 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [COINQVEST](https://www.coinqvest.com/)-Enterprise Cryptocurrency Payment Processing.
 * [Keybase](https://keybase.io/)-Secure groups, files, and chat for everyone with a built in Stellar wallet.
 * [VELO](https://velo.org/)-Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system.
-* [LitemintIO](https://litemint.io/)-PVP Card Battles
+* [LitemintIO](https://litemint.io/)-PVP Card Battles.
+* [Task](https://task.io/)-Connect your teams with your social missions.
