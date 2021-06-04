@@ -120,6 +120,7 @@
 * [Franklin Templeton](https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/mutual-funds/overview/9001/franklin-onchain-us-government-money-fund/FOCGX)-Stellar기반으로 발행된 이 토큰은 펀드 1주에 해당합니다(이 펀드는 총 자산의 99.5% 이상을 미국 정부 증권, 현금 및 환매 계약에 투자합니다.)
 * [Coinbase 카드](https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)-애플 페이, 구글 페이가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 최대 4%를 XLM 으로 리워드로 받을 수 있습니다.
 * [USDC](https://www.circle.com/en/usdc-multichain/stellar)/[Circle](https://www.circle.com/en/usdc)-Stellar기반으로도 발행되는 USDC는 스테이블코인이며, 달러에 1:1로 가격이 고정되어있습니다.
+* [삼성 Keystore](https://developer.samsung.com/blockchain/keystore/keystore-sdk/resources.html)-삼성 블록체인 키스토어에 스텔라 적용.
 # 프로토콜 업그레이드
 * [Stellar 네트워크 업그레이드](https://stellar.expert/explorer/public/protocol-history)
 
