@@ -115,7 +115,7 @@
 * [COINQVEST](https://www.coinqvest.com/)- 온라인 상인과 전자상거래 상점이 규정을 준수하면서 새로운 디지털 화폐로 결제하는것을 프로그램적으로 수용하고 결제할 수 있도록 도와줍니다.
 * [Keybase](https://keybase.io/)-Stellar 지갑이 내장되어있으며 사용자들의 모든 채팅 및 파일들이 end-to-end(E2E) 암호화되는 메신저입니다. 프라이버시를 위한 메신저.
 * [VELO](https://velo.org/)-Velo는 스마트 계약 예약 시스템을 사용하여 비즈니스를 위한 디지털 신용 발행 및 국경없는 자산 이전을 가능하게하는 신용 발행 및 예비 프로토콜입니다.
-* [Vibrant-By SDF](https://vibrantapp.com/)-Vibrant 앱은 수수료와 제한없이 USDC를 구매하고 전송할 수 있는 사용하기 쉬운 모바일 지갑입니다.
+* [Vibrant(By SDF)](https://vibrantapp.com/)-Vibrant 앱은 수수료와 제한없이 USDC를 구매하고 전송할 수 있는 사용하기 쉬운 모바일 지갑입니다.
 # 기타
 * Franklin Templeton(https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/mutual-funds/overview/9001/franklin-onchain-us-government-money-fund/FOCGX)- Stellar기반으로 발행된 이 토큰은 펀드 1주에 해당합니다(이 펀드는 총 자산의 99.5% 이상을 미국 정부 증권, 현금 및 환매 계약에 투자합니다.)
 * Coinbase 카드(https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)- 애플 페이, 구글 페이가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 최대 4%를 XLM 으로 리워드로 받을 수 있습니다.
