@@ -61,7 +61,9 @@
 * [Lumenscan](https://lumenscan.io/)
 * [Stellarbeat](https://stellarbeat.io/)
 # Stellar 기반 NFTs
-* [Litemint](https://litemint.com/)
+* [Litemint](https://litemint.com/)-누구나 손쉽고 빠르게(2분이내) NFT(대체불가능토큰)을 발행하고 거래할 수 있는 Stellar 기반의 마켓플레이스입니다. NFT를 거래하기 위해서 더 이상 높은 수수료를 지불 할 필요가 없습니다. NFT를 발행하는데 드는 비용은 3XLM에 불과하며 NFT를 이전하는데 드는 비용은 0.00001XLM이면 충분합니다. 
+# Stellar 기반 Game
+* [LitemintIO](https://litemint.io/)-PVP 카드 배틀 게임입니다.
 # Stellar 기반 프로젝트
 * [Airtm](https://www.airtm.com/en/)-여러분의 디지털 달러 계정 입니다.
 * [Stablex](https://stablex.org/)-Stablex는 스테이블 디지털 통화 플랫폼이며, 스테이블코인으로도 알려져 있습니다.
@@ -113,4 +115,8 @@
 * [COINQVEST](https://www.coinqvest.com/)- 온라인 상인과 전자상거래 상점이 규정을 준수하면서 새로운 디지털 화폐로 결제하는것을 프로그램적으로 수용하고 결제할 수 있도록 도와줍니다.
 * [Keybase](https://keybase.io/)-Stellar 지갑이 내장되어있으며 사용자들의 모든 채팅 및 파일들이 end-to-end(E2E) 암호화되는 메신저입니다. 프라이버시를 위한 메신저.
 * [VELO](https://velo.org/)-Velo는 스마트 계약 예약 시스템을 사용하여 비즈니스를 위한 디지털 신용 발행 및 국경없는 자산 이전을 가능하게하는 신용 발행 및 예비 프로토콜입니다.
-* [LitemintIO](https://litemint.io/)-PVP 카드 배틀 게임입니다.
+* [Vibrant-By SDF](https://vibrantapp.com/)-Vibrant 앱은 수수료와 제한없이 USDC를 구매하고 전송할 수 있는 사용하기 쉬운 모바일 지갑입니다.
+# 기타
+* Franklin Templeton(https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/mutual-funds/overview/9001/franklin-onchain-us-government-money-fund/FOCGX)- Stellar기반으로 발행된 이 토큰은 펀드 1주에 해당합니다(이 펀드는 총 자산의 99.5% 이상을 미국 정부 증권, 현금 및 환매 계약에 투자합니다.)
+* Coinbase 카드(https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)- 애플 페이, 구글 페이가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 최대 4%를 XLM 으로 리워드로 받을 수 있습니다.
+* USDC(https://www.circle.com/en/usdc-multichain/stellar)/Circle(https://www.circle.com/en/usdc)- Stellar기반으로도 발행되는 USDC는 스테이블코인이며, 달러에 1:1로 가격이 고정되어있습니다.
