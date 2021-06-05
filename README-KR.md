@@ -126,13 +126,13 @@
 
 Upgrade Sequence|Protocol Version|Max TxSet Size|Base Fee|Base Reserve|Upgrade Date
 :---:|:---:|:---:|:---:|:---:|:---:
-35687508 | 17 | 1000 | 0.00001 XLM | 0.5 XLM | 2021-06-01 15:00:07 UTC
-34861066 | 16 | 1000 | 0.00001 XLM | 0.5 XLM | 2021-04-10 15:00:09 UTC
-32747293 | 15 | 1000 | 0.00001 XLM | 0.5 XLM | 2020-11-23 16:00:08 UTC
-30191538 | 13 | 1000 | 0.00001 XLM | 0.5 XLM | 2020-06-18 16:00:09 UTC
-26523464 | 12 | 1000 | 0.00001 XLM | 0.5 XLM | 2019-10-28 16:00:07 UTC
-24280956 | 11 | 1000 | 0.00001 XLM | 0.5 XLM | 2019-06-10 16:05:13 UTC
-24280904 | 11 | 50 | 0.00001 XLM | 0.5 XLM | 2019-06-10 16:00:12 UTC
+35687508 | [17](https://www.stellar.org/blog/protocol-17-improvements) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-06-01 15:00:07 UTC
+34861066 | [16](https://www.stellar.org/developers-blog/protocol-16-upgrade-complete) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-04-10 15:00:09 UTC
+32747293 | [15](https://www.stellar.org/blog/protocol-14-improvements) | 1000 | 0.00001 XLM | 0.5 XLM | 2020-11-23 16:00:08 UTC
+30191538 | [13](https://www.stellar.org/blog/protocol-13-improvements) | 1000 | 0.00001 XLM | 0.5 XLM | 2020-06-18 16:00:09 UTC
+26523464 | [12](https://www.stellar.org/developers-blog/horizon-v0-22-0-released-protocol-12-support) | 1000 | 0.00001 XLM | 0.5 XLM | 2019-10-28 16:00:07 UTC
+24280956 | [11](https://www.stellar.org/blog/protocol-11-improvements-stellar) | 1000 | 0.00001 XLM | 0.5 XLM | 2019-06-10 16:05:13 UTC
+24280904 | [11](https://www.stellar.org/blog/protocol-11-improvements-stellar) | 50 | 0.00001 XLM | 0.5 XLM | 2019-06-10 16:00:12 UTC
 19967410 | 10 | 50 | 0.00001 XLM | 0.5 XLM | 2018-09-13 16:00:06 UTC
 15582229 | 9 | 50 | 0.00001 XLM | 0.5 XLM | 2018-01-11 18:00:05 UTC
 10442981 | 8 | 50 | 0.00001 XLM | 10 XLM | 2017-04-26 18:33:55 UTC
