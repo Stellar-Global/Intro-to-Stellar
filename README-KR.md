@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/73669654/118894544-7164b380-b8d2-11eb-9916-ff4ba22713cf.png)
 # Stellar 소개
-이 목록은 Stellar에 대해서 배울 수 있는 자료들을 제공합니다. 만약 들이 이 목록에 기여하길 원하시고 추가적인 업데이트를 원하신다면 pull request를 하시거나 Discord(디스코드)를 통해서 연락주시길 바랍니다.
+이 목록은 Stellar에 대해서 배울 수 있는 자료들을 제공합니다. 만약 여러분들이 이 목록에 기여 및 추가적인 업데이트를 원하신다면 Pull request를 하시거나 Discord(디스코드)를 통해서 연락주시길 바랍니다.
 # Stellar 공식 링크
 * [Stellar 웹사이트](https://www.stellar.org/)
 * [Stellar 백서📄](https://assets.website-files.com/5deac75ecad2173c2ccccbc7/5df2560fba2fb0526f0ed55f_stellar-consensus-protocol.pdf)
@@ -28,7 +28,7 @@
 * [Stellar France Twitter](https://twitter.com/Stellar_FR)
 * [Stellar Community Fund(SCF/Stellar 커뮤니티 펀드)](https://communityfund.stellar.org/)-개발자들이 능력과 창의력을 발휘하여 스텔라 생태계에 도입할 새로운 응용 프로그램 및 사용 사례를 커뮤니티에 소개하고 투표되는 흥미로운 방식입니다.
 * [Stellar 퀘스트](https://quest.stellar.org/)-Stellar에 대해 배우면서 상금으로 NFT(대체불가능토큰)과 XLM을 획득하세요!
-# Stellar 생태계가 처음이시라면 여기서부터 시작하십시오!!
+# Stellar 생태계가 처음이시라면, 여기서부터 시작하십시오!!
 * [Stellar 소개](https://www.stellar.org/learn/intro-to-stellar)
 * [Stellar의 힘](https://www.stellar.org/learn/the-power-of-stellar)
 * [Lumenauts-Stellar란 무엇인가?](https://www.lumenauts.com/lessons/what-is-stellar)
@@ -94,7 +94,7 @@
 * [Rehive](https://rehive.com/)-맞춤형 브랜드 결제 앱입니다.
 * [SaldoMX](https://smxwallet.com/)-Dinero en internet.
 * [Bitgo](https://www.bitgo.com/)-기관 디지털 자산 보관, 거래 및 금융을 제공합니다.
-* [Smartlands](https://smartlands.io/)-부동산 토큰화 STO 플랫폼입니다.
+* [Smartlands](https://smartlands.io/)-부동산 토큰화 플랫폼입니다.
 * [SureRemit](https://sureremit.co/)-SureRemit을 통해서 결제 및 송금합니다.
 * [EvilMartians](https://evilmartians.com/)-Evil Martians는 스타트업 및 기존 기업과 협력하고 오픈 소스 기반 제품 및 서비스를 만드는 분산 제품 개발 컨설팅 회사입니다.
 * [Astrograph](https://astrograph.io/)-Stellar 블록 체인에 대한 GraphQL 인터페이스입니다.
@@ -124,7 +124,7 @@
 # 프로토콜 업그레이드
 * [Stellar 네트워크 업그레이드](https://stellar.expert/explorer/public/protocol-history)
 
-Upgrade Sequence|Protocol Version|Max TxSet Size|Base Fee|Base Reserve|Upgrade Date
+**Upgrade Sequence**|**Protocol Version**|**Max TxSet Size**|**Base Fee**|**Base Reserve**|**Upgrade Date**
 :---:|:---:|:---:|:---:|:---:|:---:
 35687508 | [17](https://www.stellar.org/blog/protocol-17-improvements) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-06-01 15:00:07 UTC
 34861066 | [16](https://www.stellar.org/developers-blog/protocol-16-upgrade-complete) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-04-10 15:00:09 UTC
