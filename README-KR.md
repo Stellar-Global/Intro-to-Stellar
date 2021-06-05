@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/73669654/118894544-7164b380-b8d2-11eb-9916-ff4ba22713cf.png)
 # Stellar 소개
-이 목록은 Stellar에 대해서 배울 수 있는 자료들을 제공합니다. 만약 여러분들이 이 목록에 기여 및 추가적인 업데이트를 원하신다면 Pull request를 하시거나 Discord(디스코드)를 통해서 연락주시길 바랍니다.
+이 목록은 Stellar에 대해서 배울 수 있는 자료들을 제공합니다. 만약 여러분이 이 목록에 기여 및 추가적인 업데이트를 원하신다면 Pull request를 하시거나 Discord(디스코드)를 통해서 연락주시길 바랍니다.
 # Stellar 공식 링크
 * [Stellar 웹사이트](https://www.stellar.org/)
 * [Stellar 백서📄](https://assets.website-files.com/5deac75ecad2173c2ccccbc7/5df2560fba2fb0526f0ed55f_stellar-consensus-protocol.pdf)
@@ -118,7 +118,7 @@
 * [Task](https://task.io/)-블록체인을 기반으로 한 모바일 선진 기술입니다. 데이터를 수집하고, 사용자에게 인센티브를 제공하며, 생성된 사회적 영향에 대해 보고합니다.
 # 기타
 * [Franklin Templeton](https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/mutual-funds/overview/9001/franklin-onchain-us-government-money-fund/FOCGX)-Stellar기반으로 발행된 이 토큰은 펀드 1주에 해당합니다(이 펀드는 총 자산의 99.5% 이상을 미국 정부 증권, 현금 및 환매 계약에 투자합니다.)
-* [Coinbase 카드](https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)-애플 페이, 구글 페이가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 최대 4%를 XLM 으로 리워드로 받을 수 있습니다.
+* [Coinbase 카드](https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)-애플 페이(Apple Pay), 구글 페이(Google Pay)가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 4%를 XLM 으로 리워드로 받을 수 있습니다.
 * [USDC](https://www.circle.com/en/usdc-multichain/stellar)/[Circle](https://www.circle.com/en/usdc)-Stellar기반으로도 발행되는 USDC는 스테이블코인이며, 달러에 1:1로 가격이 고정되어있습니다.
 * [삼성 Blockchain Keystore](https://developer.samsung.com/blockchain/keystore/keystore-sdk/resources.html)-삼성 블록체인 키스토어에 Stellar도 적용되었습니다.
 # 프로토콜 업그레이드
