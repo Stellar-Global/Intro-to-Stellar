@@ -1,8 +1,9 @@
 ![image](https://user-images.githubusercontent.com/73669654/118894544-7164b380-b8d2-11eb-9916-ff4ba22713cf.png)
 # Stellar 소개
 이 목록은 Stellar에 대해서 배울 수 있는 자료들을 제공합니다. 만약 여러분이 이 목록에 기여 및 추가적인 업데이트를 원하신다면 Pull request를 하시거나 Discord(디스코드)를 통해서 연락주시길 바랍니다.
-* [발행량](https://stellar.expert/explorer/public/asset/XLM) : 105,443,902,087 XLM
+* [총 발행량](https://stellar.expert/explorer/public/asset/XLM) : 105,443,902,087 XLM
 * [소각](https://stellar.expert/explorer/public/account/GALAXYVOIDAOPZTDLHILAJQKCVVFMD4IKLXLSZV5YHO7VY74IWZILUTO)🔥 : 55,442,098,941 XLM - [소각 발표 영상](https://youtu.be/3AGhdiQeXE0?t=1116)/[SDF블로그](https://www.stellar.org/blog/sdfs-next-steps?locale=en) 
+* [현재 유통량](https://stellar.expert/explorer/public) : 23,150,605,918 XLM
 * 1% 인플레이션 상태 : [비활성화](https://www.stellar.org/blog/our-proposal-to-disable-inflation)
 # Stellar 공식 링크
 * [Stellar 웹사이트](https://www.stellar.org/)
