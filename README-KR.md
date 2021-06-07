@@ -89,9 +89,11 @@
 * [Anchorage](https://www.anchorage.com/)-디지털 자산 금융의 기준을 높입니다.
 * [Stellar Guard](https://stellarguard.me/)-Stellar 계정에 대한 보안.
 * [Wirex](https://wirexapp.com/en)-세계를 여행하면서, Wirex 카드로 지불할 수 있습니다.
-* [Bitbond](https://www.bitbond.com/)-자본시장의 재창조
+* [Bitbond](https://www.bitbond.com/)-Bitbond는 블록체인 기술 및 토큰화를 통해 금융 상품의 발행, 결제 및 보관을 근본적으로 개선합니다.
 * [IBM](https://www.stellar.org/case-studies/ibm-world-wire)-IBM의 World Wire 파일럿 프로젝트는 금융 기관이 Stellar를 사용하여 전 세계 어디로든 통화를 저렴하고 쉽게 보낼 수있는 방법을 연구했습니다.
 * [SatoshiPay](https://satoshipay.io/)-즉각적인 결제를 통해서 세계를 연결시킵니다.
+* [DTransfer](https://dtransfer.com/)-DTransfer는 기업이 전 세계로 즉시 송금 할 수있는 블록체인 기반 결제 솔루션입니다.
+* [Pendulum](https://pendulumchain.org/)-Stellar에서 스마트 계약(smart contract)을 잠금 해제
 * [MintX](https://mintx.co/)-Stellar 네트워크에서 소중한 금속(금,은) 토큰을 쉽게 거래 및 교환할 수 있습니다.
 * [Kapilendo](https://www.kapilendo.de/#/)-중소기업이 STO를 발행할 수 있도록 돕는 투자은행입니다.
 * [DSTOQ](https://www.dstoq.com/)-글로벌 증시에 투자할 수 있습니다.
