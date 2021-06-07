@@ -9,14 +9,21 @@
 <br/><img src="https://api.litemint.com:9088/stellar/supply/burned.png">
 <br/>[소각 발표 영상](https://youtu.be/3AGhdiQeXE0?t=1116)/[SDF블로그](https://www.stellar.org/blog/sdfs-next-steps?locale=en)
 
-* 총 공급량
+* [총 공급량](https://dashboard.stellar.org/)💫
 <br/><img src="https://api.litemint.com:9088/stellar/supply/total.png">
 <br/>인플레이션 비활성화(=수수료 풀 잠김) 및 소각 계정으로의 XLM전송으로 인해 총 공급량은 더 줄어들 수 있음을 알려드립니다
 
-* [현재 유통 공급량](https://stellar.expert/explorer/public)
+* [비순환 공급량](https://dashboard.stellar.org/)
+<br/><img src="https://api.litemint.com:9088/stellar/supply/noncirculating.png">
+
+* [현재 공급량🔄](https://stellar.expert/explorer/public)
 <br/><img src="https://api.litemint.com:9088/stellar/supply/circulating.png">
 
 * 1% 인플레이션 상태 : [비활성화](https://www.stellar.org/blog/our-proposal-to-disable-inflation)🔒
+
+* [프로토콜 버전](https://dashboard.stellar.org/)
+<br/><img src="https://api.litemint.com:9088/stellar/protocol/version.png">
+
 # Stellar 공식 링크
 * [Stellar 웹사이트](https://www.stellar.org/)
 * [Stellar 백서📄](https://assets.website-files.com/5deac75ecad2173c2ccccbc7/5df2560fba2fb0526f0ed55f_stellar-consensus-protocol.pdf)
