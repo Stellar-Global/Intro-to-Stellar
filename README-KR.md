@@ -9,7 +9,7 @@
 <br/><img src="https://api.litemint.com:9088/stellar/supply/burned.png">
 <br/>[소각 발표 영상](https://youtu.be/3AGhdiQeXE0?t=1116)/[SDF블로그](https://www.stellar.org/blog/sdfs-next-steps?locale=en)
 
-* [총 공급량](https://dashboard.stellar.org/)💫
+* [총 공급량](https://dashboard.stellar.org/)
 <br/><img src="https://api.litemint.com:9088/stellar/supply/total.png">
 <br/>인플레이션 비활성화(=수수료 풀 잠김) 및 소각 계정으로의 XLM전송으로 인해 총 공급량은 더 줄어들 수 있음을 알려드립니다
 
