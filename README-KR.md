@@ -16,8 +16,7 @@
 * [현재 유통 공급량](https://stellar.expert/explorer/public)
 <br/><img src="https://api.litemint.com:9088/stellar/supply/circulating.png">
 
-* 1% 인플레이션 상태
-<br/>[비활성화](https://www.stellar.org/blog/our-proposal-to-disable-inflation)
+* 1% 인플레이션 상태 : [비활성화](https://www.stellar.org/blog/our-proposal-to-disable-inflation)🔒
 # Stellar 공식 링크
 * [Stellar 웹사이트](https://www.stellar.org/)
 * [Stellar 백서📄](https://assets.website-files.com/5deac75ecad2173c2ccccbc7/5df2560fba2fb0526f0ed55f_stellar-consensus-protocol.pdf)
