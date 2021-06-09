@@ -147,6 +147,7 @@
 * [Coinbase 카드](https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)-애플 페이(Apple Pay), 구글 페이(Google Pay)가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 4%를 XLM 으로 리워드로 받을 수 있습니다.
 * [USDC](https://www.circle.com/en/usdc-multichain/stellar)/[Circle](https://www.circle.com/en/usdc)-Stellar기반으로도 발행되는 USDC는 스테이블코인이며, 달러에 1:1로 가격이 고정되어있습니다.
 * [삼성 Blockchain Keystore](https://developer.samsung.com/blockchain/keystore/keystore-sdk/resources.html)-삼성 블록체인 키스토어에 Stellar도 적용되었습니다.
+* [우크라이나](https://www.stellar.org/press-releases/ukrainian-ministry-of-digital-transformation-to-develop-virtual-assets-and-to-facilitate-cbdc-infrastructure-with-the-stellar-development-foundation)-우크라이나의 디지털 혁신처와 SDF는 가상자산 생태계의 개발을 촉진하기 위한 파트너십을 발표했습니다.
 # 프로토콜 업그레이드
 * [Stellar 네트워크 업그레이드](https://stellar.expert/explorer/public/protocol-history)
 
