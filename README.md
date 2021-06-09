@@ -115,3 +115,4 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [VELO](https://velo.org/)-Velo is a Credit and Reserve Protocol enabling digital credit issuance and borderless asset transfer for businesses using a smart contract reserve system.
 * [LitemintIO](https://litemint.io/)-PVP Card Battles.
 * [Task](https://task.io/)-Connect your teams with your social missions.
+* [Vibrant](https://vibrantapp.com/)-La forma más fácil de protegerte de la devaluación.
