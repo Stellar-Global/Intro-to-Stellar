@@ -142,6 +142,7 @@
 * [Keybase](https://keybase.io/)-Stellar 지갑이 내장되어있으며 사용자들의 모든 채팅 및 파일들이 end-to-end(E2E) 암호화되는 메신저입니다. 프라이버시를 위한 메신저.
 * [VELO](https://velo.org/)-Velo는 스마트 계약 예약 시스템을 사용하여 비즈니스를 위한 디지털 신용 발행 및 국경없는 자산 이전을 가능하게하는 신용 발행 및 예비 프로토콜입니다.
 * [Task](https://task.io/)-블록체인을 기반으로 한 모바일 선진 기술입니다. 데이터를 수집하고, 사용자에게 인센티브를 제공하며, 생성된 사회적 영향에 대해 보고합니다.
+* [Leaf Global Fintech](https://leafglobalfintech.com/)-국경을 초월한 뱅킹/ [UNICEF혁신펀드 선정·투자](https://www.unicef.org/innovation/InnovationFund/blockchain-financial-inclusion-cohort) 및 [소개](https://www.unicefinnovationfund.org/broadcast/updates/leaf-wallet-digital-financial-services-refugees-and-under-resourced-communities)
 # 기타
 * [Franklin Templeton](https://www.franklintempleton.com/investor/investments-and-solutions/investment-options/mutual-funds/overview/9001/franklin-onchain-us-government-money-fund/FOCGX)-Stellar기반으로 발행된 이 토큰은 펀드 1주에 해당합니다(이 펀드는 총 자산의 99.5% 이상을 미국 정부 증권, 현금 및 환매 계약에 투자합니다.)
 * [Coinbase 카드](https://blog.coinbase.com/now-use-your-coinbase-card-with-apple-pay-and-google-pay-df951ad52c89)-애플 페이(Apple Pay), 구글 페이(Google Pay)가 연동될 예정이며 현재 미국에서만 사용이 가능한 이 카드는 결제액의 1%를 BTC 또는 4%를 XLM 으로 리워드로 받을 수 있습니다.
