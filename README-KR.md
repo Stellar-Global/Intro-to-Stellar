@@ -87,7 +87,7 @@
 # Stellar 기반 NFTs 마켓플레이스 & Game
 * [Litemint](https://litemint.com/)-누구나 손쉽고 빠르게(2분이내) NFT(대체불가능토큰)을 발행하고 거래할 수 있는 Stellar 기반의 마켓플레이스입니다. NFT를 거래하기 위해서 더 이상 높은 수수료를 지불 할 필요가 없습니다. NFT를 발행하는데 드는 비용은 3XLM에 불과하며 NFT를 이전하는데 드는 비용은 0.00001XLM이면 충분합니다. 
 * [LitemintIO](https://litemint.io/)-PVP 카드 배틀 게임입니다.
-* [CityStates: Medieval](https://citystatesm.com/ref/jay)(사전등록 중...사전등록하고 250HEX 토큰을 받으세요)-PVP 게임
+* [CityStates: Medieval](https://citystatesm.com/ref/jay)(사전등록 중...사전등록하고 250HEX 토큰을 받으세요)-PVP 게임 입니다.
 # Stellar 기반 프로젝트
 * [Vibrant(By SDF)](https://vibrantapp.com/)-Vibrant 앱은 수수료와 제한없이 USDC를 구매하고 전송할 수 있는 사용하기 쉬운 모바일 지갑입니다.
 * [Airtm](https://www.airtm.com/en/)-여러분의 디지털 달러 계정 입니다.
