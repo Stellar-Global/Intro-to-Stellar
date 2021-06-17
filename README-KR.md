@@ -91,7 +91,7 @@
 # Stellar 기반 프로젝트
 * [Vibrant(By SDF)](https://vibrantapp.com/)-Vibrant 앱은 수수료와 제한없이 USDC를 구매하고 전송할 수 있는 사용하기 쉬운 모바일 지갑입니다.
 * [Airtm](https://www.airtm.com/en/)-여러분의 디지털 달러 계정 입니다.
-* [Anclap] (https://www.anclap.com)-라탐의 가장 큰 디지털 스테이 블코 인 플랫폼.
+* [Anclap](https://www.anclap.com)-라탐의 가장 큰 디지털 스테이 블코 인 플랫폼.
 * [Stablex](https://stablex.org/)-Stablex는 스테이블 디지털 통화 플랫폼이며, 스테이블코인으로도 알려져 있습니다.
 * [Abra](https://www.abra.com/)-구매, 암호자산 거래, 대출 및 이자 획득 할 수 있습니다.
 * [Fireblocks](https://www.fireblocks.com/)-수익성 있는 디지털 자산 비즈니스를 구축, 실행 및 확장합니다
