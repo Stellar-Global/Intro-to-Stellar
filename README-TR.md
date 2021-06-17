@@ -13,6 +13,7 @@ Bu liste Stellar hakkında bilgi edinmek için harika kaynaklar ve araştırmala
 * [SDF LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
 * [SDF Blog](https://www.stellar.org/blog)
 * [Stellar Geliştirici Bloğu](https://www.stellar.org/developers-blog)
+* [Turing Complete Akilli Kontratlar](https://tss.stellar.org/)
 # Topluluk
 * [Stellar Global Discord](https://stellarglobal.chat/)-Stellar Türkiye, Kore, Afrika, Asya, Avusturya, Kanada, Karayipler, Avrupa, Fransa, İrlanda mevcuttur.
 * [Stellar Global Twitter](https://twitter.com/StellarGlobal_)
