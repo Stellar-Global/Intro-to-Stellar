@@ -65,6 +65,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [Litemint](https://litemint.com/)
 # Projects Building on Stellar
 * [Airtm](https://www.airtm.com/en/)-Your digital dollar account.
+* [Anclap](https://www.anclap.com)-Latam's largest digital stablecoin platform. 
 * [Stablex](https://stablex.org/)-Stablex is a stable digital currency platform; also known as stablecoins.
 * [Abra](https://www.abra.com/)-Buy, Trade, Borrow, and Earn Interest on Cryptocurrencies
 * [Fireblocks](https://www.fireblocks.com/)-Build, run and scale a profitable digital asset business.
