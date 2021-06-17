@@ -65,6 +65,7 @@ Bu liste Stellar hakkında bilgi edinmek için harika kaynaklar ve araştırmala
 * [Litemint](https://litemint.com/)
 # Stellar üzerinde inşa edilen projeler
 * [Airtm](https://www.airtm.com/en/)-Dijital dolar hesabınız.
+* [Anclap](https://www.anclap.com)-Latam'ın en büyük dijital stablecoin platformu.
 * [Stablex](https://stablex.org/)-Stablex, sabit bir dijital para birimi platformudur; Stablecoin olarak da bilinir. 
 * [Abra](https://www.abra.com/)-Kripto Para Birimleri Satın Alın, Ticaret Yapın, Ödünç Alın ve Faiz Kazanın!
 * [Fireblocks](https://www.fireblocks.com/)-Karlı bir dijital varlık işi kurun, çalıştırın ve ölçeklendirin.
