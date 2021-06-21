@@ -64,6 +64,7 @@ Diese Liste bietet Ressourcen und Forschungsbeiträge, um alles über die wunder
 * [Litemint](https://litemint.com/)
 # Projekte die auf Stellar gebaut werden
 * [Airtm](https://www.airtm.com/en/) - Dein Digital Dollar Account.
+* [Anclap](https://www.anclap.com)-Latams größte digitale Stablecoin-Plattform.
 * [Stablex](https://stablex.org/) - Stablex ist eine stabile Währungsplatform; auch bekannt als "stablecoin".
 * [Abra](https://www.abra.com/) - Kaufen, Handeln, Leihen und Anteile an Kryptowährung verdienen.
 * [Fireblocks](https://www.fireblocks.com/) - Baue, betreibe und skaliere ein digitales Anlageunternehmen.

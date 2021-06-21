@@ -89,6 +89,7 @@ Cette liste fournit des ressources et recherches pour en savoir plus sur le rés
 * [CityStates: Medieval](https://citystatesm.com/ref/jay)(Pré-inscrivez-vous et obtenez 250 jetons HEX)-Jeu PVP.
 # Projets construits sur Stellar
 * [Airtm](https://www.airtm.com/en/)-Votre compte de dollars numériques.
+* [Anclap](https://www.anclap.com)-La plus grande plate-forme de stablecoin numérique de Latam.
 * [Stablex](https://stablex.org/)-Stablex est une plateforme de monnaie numérique stable; également connu sous le nom de stablecoins.
 * [Abra](https://www.abra.com/)-Achetez, échangez, empruntez et gagnez des intérêts avec vos crypto-monnaies
 * [Fireblocks](https://www.fireblocks.com/)-Construisez, gérez et faites évoluer une entreprise rentable d'assets numériques.
