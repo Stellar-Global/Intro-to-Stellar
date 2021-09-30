@@ -64,6 +64,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 # NFTs on Stellar
 * [Litemint](https://litemint.com/)
 # Projects Building on Stellar
+* [AQUARIUS](https://aqua.network/)-Aquarius adds liquidity management layer to Stellar and powers new generation of DeFi projects.
 * [Airtm](https://www.airtm.com/en/)-Your digital dollar account.
 * [Anclap](https://www.anclap.com)-Latam's largest digital stablecoin platform. 
 * [Stablex](https://stablex.org/)-Stablex is a stable digital currency platform; also known as stablecoins.
