@@ -36,7 +36,7 @@
 * [SDF LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
 * [SDF 블로그](https://www.stellar.org/blog)
 * [Stellar 개발자 블로그](https://www.stellar.org/developers-blog)
-* [스마트컨트랙트(Smart contract)](https://turrets.stellar.org/)
+* [스마트 컨트랙트(Smart contract)](https://turrets.stellar.org/)
 # 커뮤니티
 * [Stellar Global 소개](https://youtu.be/4y9N-XHwfwo)
 * [Stellar Global Discord(디스코드) 메신저💬](https://discord.gg/uXut8Yr)-Stellar 한국, 아시아, 유럽, 북미, 중남미, 오스트리아, 아일랜드, 아프리카, 카리브해, 캐나다, 터키, 프랑스 커뮤니티를 포함합니다.
