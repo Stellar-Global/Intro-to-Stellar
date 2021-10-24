@@ -36,6 +36,7 @@
 * [SDF LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
 * [SDF 블로그](https://www.stellar.org/blog)
 * [Stellar 개발자 블로그](https://www.stellar.org/developers-blog)
+* [스마트컨트랙트(Smart contract)](https://turrets.stellar.org/)
 # 커뮤니티
 * [Stellar Global 소개](https://youtu.be/4y9N-XHwfwo)
 * [Stellar Global Discord(디스코드) 메신저💬](https://discord.gg/uXut8Yr)-Stellar 한국, 아시아, 유럽, 북미, 중남미, 오스트리아, 아일랜드, 아프리카, 카리브해, 캐나다, 터키, 프랑스 커뮤니티를 포함합니다.
@@ -90,6 +91,7 @@
 * [CityStates: Medieval](https://citystatesm.com/ref/jay)(사전등록 중...사전등록하고 250HEX 토큰을 받으세요)-PVP 게임 입니다.
 # Stellar 기반 프로젝트
 * [Vibrant(By SDF)](https://vibrantapp.com/)-Vibrant 앱은 수수료와 제한없이 USDC를 구매하고 전송할 수 있는 사용하기 쉬운 모바일 지갑입니다.
+* [AQUARIUS](https://aqua.network/)-Aquarius는 Stellar에 유동성 관리 계층을 추가하고 차세대 DeFi 프로젝트를 지원합니다.
 * [Airtm](https://www.airtm.com/en/)-여러분의 디지털 달러 계정 입니다.
 * [Anclap](https://www.anclap.com)-라탐의 가장 큰 디지털 스테이 블코 인 플랫폼.
 * [Stablex](https://stablex.org/)-Stablex는 스테이블 디지털 통화 플랫폼이며, 스테이블코인으로도 알려져 있습니다.
