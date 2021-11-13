@@ -154,7 +154,7 @@
 * [삼성 Blockchain Keystore](https://developer.samsung.com/blockchain/keystore/keystore-sdk/resources.html)-삼성 블록체인 키스토어에 Stellar도 적용되었습니다.
 * [우크라이나](https://www.stellar.org/press-releases/ukrainian-ministry-of-digital-transformation-to-develop-virtual-assets-and-to-facilitate-cbdc-infrastructure-with-the-stellar-development-foundation)-우크라이나의 디지털 혁신처와 SDF는 가상자산 생태계의 개발을 촉진하기 위한 파트너십을 발표했습니다.
 # 프로토콜 업그레이드
-* [Stellar 네트워크 업그레이드](https://stellar.expert/explorer/public/protocol-history)
+* [Stellar 네트워크 업그레이드 히스토리](https://stellar.expert/explorer/public/protocol-history)
 
 **Upgrade Sequence**|**Protocol Version**|**Max TxSet Size**|**Base Fee**|**Base Reserve**|**Upgrade Date**
 :---:|:---:|:---:|:---:|:---:|:---:
