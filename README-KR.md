@@ -158,7 +158,7 @@
 
 **Upgrade Sequence**|**Protocol Version**|**Max TxSet Size**|**Base Fee**|**Base Reserve**|**Upgrade Date**
 :---:|:---:|:---:|:---:|:---:|:---:
-38115806 | [18](https://twitter.com/StellarOrg/status/1455914284706238473) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-11-03 15:00:09 UTC
+38115806 | [18](https://stellar.org/developers-blog/protocol-18-upgrade-complete) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-11-03 15:00:09 UTC
 35687508 | [17](https://www.stellar.org/blog/protocol-17-improvements) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-06-01 15:00:07 UTC
 34861066 | [16](https://www.stellar.org/developers-blog/protocol-16-upgrade-complete) | 1000 | 0.00001 XLM | 0.5 XLM | 2021-04-10 15:00:09 UTC
 32747293 | [15](https://www.stellar.org/blog/protocol-14-improvements) | 1000 | 0.00001 XLM | 0.5 XLM | 2020-11-23 16:00:08 UTC
