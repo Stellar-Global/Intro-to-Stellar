@@ -22,7 +22,7 @@
 * 1% 인플레이션 상태 : [**비활성화**](https://www.stellar.org/blog/our-proposal-to-disable-inflation)🔒
 
 * [프로토콜 버전](https://dashboard.stellar.org/)
-<br/>18
+<br/>**18**
 
 # Stellar 공식 링크
 * [Stellar 웹사이트](https://www.stellar.org/)
