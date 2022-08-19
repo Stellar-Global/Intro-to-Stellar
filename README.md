@@ -53,6 +53,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [TradingBot for Stellar](https://kelpbot.io/)-Kelp is a free, customizable, open-source trading bot for the Stellar universal marketplace.
 # Web Wallets to request transaction signing or identity verification without ever exposing your secret key
 * [Albedo](https://albedo.link/)
+* [xBull] (https://xbull.app/)
 * [Freighter](https://www.freighter.app/)
 * [Rabet](https://rabet.io/)
 # Network Analytics
