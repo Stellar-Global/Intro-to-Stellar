@@ -64,6 +64,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [Stellarbeat](https://stellarbeat.io/)
 # NFTs on Stellar
 * [Litemint](https://litemint.com/)
+* [FIMI](https://nft.fimi.market/)
 # Projects Building on Stellar
 * [AQUARIUS](https://aqua.network/)-Aquarius adds liquidity management layer to Stellar and powers new generation of DeFi projects.
 * [Airtm](https://www.airtm.com/en/)-Your digital dollar account.
