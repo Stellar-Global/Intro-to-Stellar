@@ -1,4 +1,4 @@
-![image](stellarglobal.png)
+![image](stellar-global.png)
 # Intro to Stellar
 This list provides resources and researches to learn about awesome Stellar! Please make a pull request or contact me(Emir) on Discord if you would like to contribute&update.
 # Official Links about Stellar 
