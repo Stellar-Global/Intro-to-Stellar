@@ -13,7 +13,7 @@ This list provides resources and researches to learn about awesome Stellar! Plea
 * [SDF LinkedIn](https://www.linkedin.com/company/stellar-development-foundation/)
 * [SDF Blog](https://www.stellar.org/blog)
 * [Stellar Developers Blog](https://www.stellar.org/developers-blog)
-* [Turing Complete Smart Contracts](https://tss.stellar.org/)
+* [Soroban - Preview Release](https://soroban.stellar.org/docs/)
 # Community
 * [Stellar Global Discord](https://stellarglobal.chat/)-Including Stellar Turkey, Korea, Africa, Asia, Austria, Canada, Caribbean, Europe, France, Ireland, Soylatino.
 * [Stellar Global Twitter](https://twitter.com/StellarGlobal_)
